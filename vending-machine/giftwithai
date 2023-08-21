@@ -1,0 +1,13 @@
+we can add an idea to the project 
+when we want to give customer a product as a gift 
+if customer select 000 or 111 product we give him another one
+and ...
+
+groups :
+
+1. 000 & 111
+2. 001 & 110
+3. 010 & 101
+4. 011 & 100
+
+it work as an simple ai which connect product with similar specifications

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated   -->
+<!--     by the Xilinx ISE software.  Any direct editing or        -->
+<!--     changes made to this file may result in unpredictable     -->
+<!--     behavior or data corruption.  It is strongly advised that -->
+<!--     users do not edit the contents of this file.              -->
+<!--                                                               -->
+<!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.    -->
+
+<messages>
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/prca/Desktop/vending machine/vending-machine/BuyingPhase.v&quot; into library work</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/prca/Desktop/vending machine/vending-machine/BuyingPhase.v</arg>&quot; Line <arg fmt="%d" index="2">22</arg>. <arg fmt="%s" index="3">Syntax error near &quot;[&quot;.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/prca/Desktop/vending machine/vending-machine/BuyingPhase.v</arg>&quot; Line <arg fmt="%d" index="2">34</arg>. <arg fmt="%s" index="3">Syntax error near &quot;=&quot;.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/prca/Desktop/vending machine/vending-machine/BuyingPhase.v</arg>&quot; Line <arg fmt="%d" index="2">66</arg>. <arg fmt="%s" index="3">Syntax error near &quot;else&quot;.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/prca/Desktop/vending machine/vending-machine/BuyingPhase.v</arg>&quot; Line <arg fmt="%d" index="2">90</arg>. <arg fmt="%s" index="3">Syntax error near &quot;[&quot;.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/prca/Desktop/vending machine/vending-machine/BuyingPhase.v</arg>&quot; Line <arg fmt="%d" index="2">102</arg>. <arg fmt="%s" index="3">Syntax error near &quot;&lt;=&quot;.</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/prca/Desktop/vending machine/vending-machine/chargingthesupply.v&quot; into library work</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/prca/Desktop/vending machine/vending-machine/chargingthesupply.v</arg>&quot; Line <arg fmt="%d" index="2">20</arg>. <arg fmt="%s" index="3">Syntax error near &quot;[&quot;.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/prca/Desktop/vending machine/vending-machine/chargingthesupply.v</arg>&quot; Line <arg fmt="%d" index="2">74</arg>. <arg fmt="%s" index="3">Syntax error near &quot;[&quot;.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/prca/Desktop/vending machine/vending-machine/chargingthesupply.v</arg>&quot; Line <arg fmt="%d" index="2">86</arg>. <arg fmt="%s" index="3">Syntax error near &quot;&lt;=&quot;.</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/prca/Desktop/vending machine/vending-machine/checkin.v&quot; into library work</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/prca/Desktop/vending machine/vending-machine/checkin.v</arg>&quot; Line <arg fmt="%d" index="2">11</arg>. <arg fmt="%s" index="3">Syntax error near &quot;*&quot;.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/prca/Desktop/vending machine/vending-machine/checkin.v</arg>&quot; Line <arg fmt="%d" index="2">17</arg>. <arg fmt="%s" index="3">Syntax error near &quot;&lt;=&quot;.</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/prca/Desktop/vending machine/vending-machine/keyboard.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/prca/Desktop/vending machine/vending-machine/main.v&quot; into library work</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/prca/Desktop/vending machine/vending-machine/main.v</arg>&quot; Line <arg fmt="%d" index="2">62</arg>. <arg fmt="%s" index="3">Syntax error near &quot;;&quot;.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/prca/Desktop/vending machine/vending-machine/main.v</arg>&quot; Line <arg fmt="%d" index="2">80</arg>. <arg fmt="%s" index="3">Syntax error near &quot;;&quot;.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/prca/Desktop/vending machine/vending-machine/main.v</arg>&quot; Line <arg fmt="%d" index="2">94</arg>. <arg fmt="%s" index="3">Syntax error near &quot;;&quot;.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/prca/Desktop/vending machine/vending-machine/main.v</arg>&quot; Line <arg fmt="%d" index="2">103</arg>. <arg fmt="%s" index="3">Syntax error near &quot;;&quot;.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/prca/Desktop/vending machine/vending-machine/main.v</arg>&quot; Line <arg fmt="%d" index="2">111</arg>. <arg fmt="%s" index="3">Syntax error near &quot;else&quot;.</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/prca/Desktop/vending machine/vending-machine/modifystuff.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/prca/Desktop/vending machine/vending-machine/readstuff.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/prca/Desktop/vending machine/vending-machine/retrivethemoney.v&quot; into library work</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/prca/Desktop/vending machine/vending-machine/retrivethemoney.v</arg>&quot; Line <arg fmt="%d" index="2">7</arg>. <arg fmt="%s" index="3">Syntax error near &quot;inout&quot;.</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/prca/Desktop/vending machine/vending-machine/sevensegmentdisplay.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/prca/Desktop/vending machine/vending-machine/supportphase.v&quot; into library work</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/prca/Desktop/vending machine/vending-machine/supportphase.v</arg>&quot; Line <arg fmt="%d" index="2">10</arg>. <arg fmt="%s" index="3">Syntax error near &quot;endmodule&quot;.</arg>
+</msg>
+
+</messages>
+
